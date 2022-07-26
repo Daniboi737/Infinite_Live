@@ -92,14 +92,12 @@ a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,dcdcfedc-8c9d-408b-9f5d-2f0632e
 a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,4b334193-8890-4df0-b91c-a4357f81fd3a,Sky Airlines X
 a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,4271e71d-25e7-43d8-a6e7-79c2c3359bdd,Air India X
 a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,1b8bef4d-85d4-45f8-8a79-16b359fcebfa,Air Zimbabwe X
-a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,8a660633-ef3f-4336-bedf-99878eeb678b,JetBlue Shantay X
-a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,28fb4508-9eca-4120-abe4-3c4f06f6e71c,Infinite Flight Pride 2022 X
-d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,09ed4e33-335c-4385-a8d6-fa076f68459d,Generic X
-d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,f36ceb00-cd6c-46a9-9dc7-30721668a11f,Air India X
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,09ed4e33-335c-4385-a8d6-fa076f68459d,Generic
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,f36ceb00-cd6c-46a9-9dc7-30721668a11f,Air India
 d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,9627685d-e466-4645-806c-4366d43d78f6,Aer Lingus X
 d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,9576b574-f098-4875-9f8a-5e3a21632fb2,Alitalia X
-d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,8ce5dac3-bea5-4b09-957b-7e8df7ce40d1,American Airlines X
-d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,fff01f28-c366-446d-a969-5e5ee267f5f6,ANA X
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,8ce5dac3-bea5-4b09-957b-7e8df7ce40d1,American Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,fff01f28-c366-446d-a969-5e5ee267f5f6,ANA
 d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,98ae73a4-faf5-4e91-b27a-c0ce45fc26a2,Asiana Airlines
 d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,2a5ebc6c-8246-4176-a2b1-5399dd1537de,Austrian Airlines
 d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,700c1fca-c1a8-4efd-9a73-2773aa3ae46d,Dragonair
@@ -125,6 +123,7 @@ d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,66666808-5c81-441b-89f1-d132889
 d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,bd5ad51e-a753-4203-8eef-502da9f431e5,Wizz Air
 d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,a705c138-2ddd-4cf2-8f67-6c7f742eb09c,Cebu Pacific
 d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,38ad8ab5-57fd-4e9b-9367-8792aebc15b6,Qatar Airways
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,32becef6-0e00-4fdd-8e78-98996009ad53,LATAM
 2b1249c8-11d8-4fa6-9aae-a99eff451225,C-17,d9d45dc3-c639-4d00-97aa-ad3726602129,Generic
 0a3edb21-d515-4619-8392-aef51b952ac9,F18,47445efa-42da-4779-b01e-7608628d5ba3,Generic
 e92bc6db-a9e6-4137-a93c-a7423715b799,Cirrus SR22 GTS,25e31904-a622-41b1-857a-4a1046cefcde,Generic
@@ -160,7 +159,7 @@ f580ad00-b7c7-4813-9dbc-c4a8c655cc46,Airbus A330-200F,fb9d200c-563d-4e37-878a-84
 6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,1ae8c721-b906-4a34-8dba-a81106258047,SAS
 6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,e6b8145b-adf5-4ff1-933a-04d47a64f8f2,Aeroflot
 6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,a79719a6-ff60-4a83-bf21-3a29f54dcdea,China Airlines
-6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,88cd6503-d375-493e-87e3-32fa4395b93b,Egypt Air
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,88cd6503-d375-493e-87e3-32fa4395b93b,EgyptAir
 6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,e8b7ddc6-69da-4874-a486-41edf278635f,Generic
 6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,800301a6-9aad-4e93-b8db-850e97b04f19,Singapore Airlines
 6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,398ad663-c07e-4fa6-922a-c934e00ccad0,Thai International Airways
@@ -613,6 +612,8 @@ c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,cd494c39-5ca5-459a-b894-b375f6
 0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,9d4be727-5538-403a-a520-abd4a8cc0cfa,Virgin Atlantic Airways
 0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,7458968e-86a2-4fc8-98c2-f8438204e08b,Turkish Airlines
 0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,e7c74edf-b171-4966-b8f1-1e4743a0755f,WestJet
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,d2081c69-4484-414f-b4b2-f0cf9b9cea81,Aeromexico
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,fc630204-2fcb-44b3-b2f1-35d46b4b0342,Vistara
 61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,4ddfdfe0-4777-47f7-bcde-65d8d39cfe7b,ANA
 61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,e58cd012-3e91-4f51-87ed-d2523584b16a,Air France
 61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,94652613-16a5-4285-ab2e-700714c09cf5,Boeing
