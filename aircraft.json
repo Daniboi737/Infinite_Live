@@ -570,6 +570,12 @@
     "LiveryName": "Infinite Flight Pride 2022"
   },
   {
+    "AircraftId": "a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3",
+    "AircraftName": "Airbus A320",
+    "LiveryId": "f7f98bea-72e4-4d2b-a353-d34509fc0a15",
+    "LiveryName": "Citilink"
+  },
+  {
     "AircraftId": "d7434d84-555a-4d9b-93a7-53c77cf846ea",
     "AircraftName": "Airbus A321",
     "LiveryId": "09ed4e33-335c-4385-a8d6-fa076f68459d",
@@ -754,6 +760,12 @@
     "AircraftName": "Airbus A321",
     "LiveryId": "38ad8ab5-57fd-4e9b-9367-8792aebc15b6",
     "LiveryName": "Qatar Airways"
+  },
+  {
+    "AircraftId": "d7434d84-555a-4d9b-93a7-53c77cf846ea",
+    "AircraftName": "Airbus A321",
+    "LiveryId": "32becef6-0e00-4fdd-8e78-98996009ad53",
+    "LiveryName": "LATAM"
   },
   {
     "AircraftId": "2b1249c8-11d8-4fa6-9aae-a99eff451225",
@@ -2715,7 +2727,7 @@
     "AircraftId": "f60a537d-5f83-4b68-8f66-b5f76d1e1775",
     "AircraftName": "Boeing 737-800",
     "LiveryId": "a1a53d68-462a-4a4a-afe2-02361297f048",
-    "LiveryName": "Aerolíneas Argentinas"
+    "LiveryName": "Aerol�neas Argentinas"
   },
   {
     "AircraftId": "f60a537d-5f83-4b68-8f66-b5f76d1e1775",
@@ -3676,6 +3688,18 @@
     "AircraftName": "Boeing 787-9",
     "LiveryId": "e7c74edf-b171-4966-b8f1-1e4743a0755f",
     "LiveryName": "WestJet"
+  },
+  {
+    "AircraftId": "0c039044-1a57-48db-99c1-7570a6bf2b00",
+    "AircraftName": "Boeing 787-9",
+    "LiveryId": "d2081c69-4484-414f-b4b2-f0cf9b9cea81",
+    "LiveryName": "Aeromexico"
+  },
+  {
+    "AircraftId": "0c039044-1a57-48db-99c1-7570a6bf2b00",
+    "AircraftName": "Boeing 787-9",
+    "LiveryId": "fc630204-2fcb-44b3-b2f1-35d46b4b0342",
+    "LiveryName": "Vistara"
   },
   {
     "AircraftId": "61084cae-8aac-4da4-a7df-396ec6d9c870",
