@@ -39,7 +39,7 @@ c9a745c6-4b54-4b48-9ed2-c960bc19e520,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus
 0ccffb5e-1c03-46ff-8757-df3835a2b67c,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Swiss
 8a0a29ed-55b3-47eb-82c2-d1c30c5effe3,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,TAM
 c4957753-e41b-492f-9f99-0d64be573957,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Azerbaijan Airlines
-9f43e353-f3f3-40a7-a0d4-e2f5302b596e,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Eurowings
+9f43e353-f3f3-40a7-a0d4-e2f5302b596e,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Eurowings X
 743b07cf-ecbd-44de-b153-d782bfe16999,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Lufthansa
 d0074d2e-3394-4775-91d2-7bd634aebdcd,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,LATAM
 e2f386cb-b7b8-487e-aa7f-909bfe37eb28,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,TAP
@@ -330,7 +330,7 @@ f6c94d1f-18db-4ca4-b0a0-e4f04999f77f,bec63a00-a483-4427-a076-0f76dba0ee97,Boeing
 4ccd5568-0c74-45ec-a836-74ab19b68697,bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,Korean Airlines
 9d2a8eba-e588-4608-b960-4d5a83aca656,bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,KLM
 0ffc1641-3ab9-4b16-a701-033ab41ed08d,6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,Southern Air
-d425409e-7f32-40f6-98e1-4aa57ecca450,6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,FedEx
+d425409e-7f32-40f6-98e1-4aa57ecca450,6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,FedEx X
 833cd0f1-5b9e-4af9-bc5c-b4313164c275,6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,AeroLogic
 5ba8551e-e8bc-4021-a180-76c6a3cec21f,6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,TNT
 a7c375a0-f126-49af-bb18-72ffe13b0f87,6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,Emirates Sky Cargo
@@ -519,7 +519,7 @@ ccfa0e83-9504-41b9-9ef8-9aa96f97d564,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna
 4a67e1c7-7e1d-4f48-ba6b-24e30d3331a7,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,Zan Air
 4f391a71-92f2-49d8-b4f7-23e9a5547bd9,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,Colombia Army
 bade9e53-390e-42f1-a9ff-d6479eb47ff8,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,Iraqi Army
-0a3b5b5a-e646-42c0-9c9b-540d94715a58,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,Fedex
+0a3b5b5a-e646-42c0-9c9b-540d94715a58,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,Fedex X
 544b1ff6-b7b5-4d0f-b2e7-b658df520a20,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,DHL
 68620987-8ec1-438b-b049-1595a4dc0ff5,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,Two Taxi Aereo
 99913d02-8d0c-4f64-a2af-553315da9ebd,206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,Airnet Systems
@@ -592,7 +592,7 @@ c245a1e6-2619-4b05-b200-7f5c27cad98c,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F
 8adca00c-46c6-45af-85a0-dc5dadb2de03,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,Avient
 2c9e7c94-ecc5-48f7-a2c1-c5e31b1dffc9,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,DAS Air Cargo
 e281cd76-dff2-4ca9-8e54-93539a727650,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,Emery Worldwide
-4f62a437-cc2e-4a97-901f-9c12a2c1ad17,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,Fedex
+4f62a437-cc2e-4a97-901f-9c12a2c1ad17,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,Fedex X
 1d22a74a-9085-4de6-a844-f9989cdb0bb1,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,Gemini Air Cargo
 d4ede23f-6ac0-4d18-bd1d-37c1871c3791,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,Kelowna Flightcraft Air Charter
 0e93fcc8-f9e6-46e8-8189-7eb899cc591b,e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,Solar Cargo
@@ -615,7 +615,7 @@ a31b32c7-3c5e-4085-9451-9f5c1765caf1,b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,
 bc979e7b-957e-4f75-bed8-cb7334671693,3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,Aeroflot Cargo
 291750c3-82fd-4406-99a2-3b01572e762f,3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,Centurion Air Cargo
 256df05e-c0b8-41b2-81a5-ed27c72f450b,3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,Ethiopian Airlines
-f7a85def-8298-45dc-a954-d0b9d4043cd8,3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,Fedex
+f7a85def-8298-45dc-a954-d0b9d4043cd8,3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,Fedex X
 7bbe5ebf-e369-4d8f-81f5-d9931e82ca7a,3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,Lufthansa Cargo
 eeda026b-d60e-4930-9aba-fcd8b754dd3d,3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,Martinair Cargo
 5f025448-0483-4d74-b5de-91f5054e4e01,3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,Saudia
@@ -661,7 +661,7 @@ f9474e48-f651-4d39-ab5e-4806339afd5c,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus
 29947d52-a32a-4675-b04d-878fa2ac5476,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,Azul
 1c2ec274-9666-4bb8-a5b0-d5e32bfa3e89,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,VivaAerobus
 e82466c3-a7cb-4ab4-86cf-71d7463b535f,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,Lufthansa 2018
-c8cd650a-c96b-40ba-a8d5-6fa28a4fd1cc,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,Eurowings
+c8cd650a-c96b-40ba-a8d5-6fa28a4fd1cc,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,Eurowings X
 4b2c2c5f-7046-4dbe-942f-3d4f25042761,230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,Aer Lingus
 ba2355e0-3a26-4c47-8c88-82599dc61a0f,230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,Aeroflot
 463445eb-9099-4926-a048-63fc60f19f37,230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,Afriqiyah Airways
