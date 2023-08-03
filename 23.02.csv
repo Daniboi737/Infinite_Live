@@ -107,7 +107,7 @@ c26dca34-d4e7-428e-8bf2-5c2e09021628,d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus
 061ee4be-7a62-4eee-8096-da4a0941ba0b,d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,Spirit Airlines X
 d2b92cc1-7f87-4063-b215-ffb97eebf12a,d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,British Airways
 66666808-5c81-441b-89f1-d132889b2041,d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,Air Canada
-bd5ad51e-a753-4203-8eef-502da9f431e5,d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,Wizz Air
+bd5ad51e-a753-4203-8eef-502da9f431e5,d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,Wizz Air X
 a705c138-2ddd-4cf2-8f67-6c7f742eb09c,d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,Cebu Pacific
 38ad8ab5-57fd-4e9b-9367-8792aebc15b6,d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,Qatar Airways
 c9783f7c-1bd1-497d-b220-329b41abf78c,f580ad00-b7c7-4813-9dbc-c4a8c655cc46,Airbus A330-200F,UPS
@@ -834,7 +834,7 @@ f7f98bea-72e4-4d2b-a353-d34509fc0a15,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus
 d808425b-781d-4429-83f8-b853fca8bb3e,0a3edb21-d515-4619-8392-aef51b952ac9,F/A-18E Super Hornet,Kuwait Air Force
 10300091-1d1c-4b01-a46d-b768e1fb0697,0a3edb21-d515-4619-8392-aef51b952ac9,F/A-18E Super Hornet,VFA-81 Sharknado
 843d91ac-3a50-4a3d-9f39-4a14d44edced,0a3edb21-d515-4619-8392-aef51b952ac9,F/A-18E Super Hornet,VFA-31 Tomcatters
-68276689-d7a8-4fa5-bc4d-afb8d9a29d50,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Drukair
+68276689-d7a8-4fa5-bc4d-afb8d9a29d50,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Drukair X
 88e0405f-cb3b-461a-98ed-43217e3b3341,230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,Fiji Airways
 85cc6e33-5e99-4bfe-8c80-a55cb5e70b3d,6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,Finnair
 54d5dc1d-0ea4-438d-8e10-266d8ba6112f,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,Vistara
@@ -861,8 +861,8 @@ a0e13ca8-3fc4-47c2-98c3-102c415475df,f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing
 19441ea3-ff40-43a2-940a-e571362ffac8,f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,REX Airlines
 0a28f2a2-9150-4adf-ae70-3a28d4f760a9,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,Edelweiss
 9b8737c3-ee29-43ad-8fa4-7c2fed73ebc6,a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,ITA Transportes Aéreos
-6f154dee-e31a-483f-be21-f0a6a07db835,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,American Airlines
-3d7f4b40-8018-4ef2-89f6-4acbcd3b741f,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Volotea Airlines
+6f154dee-e31a-483f-be21-f0a6a07db835,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,American Airlines X
+3d7f4b40-8018-4ef2-89f6-4acbcd3b741f,2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,Volotea Airlines X
 83ee83ab-c9e3-43a4-9654-b5f8537b8bc3,230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,China Southern Airlines
 b664e712-a337-465b-a416-fe26a6f9a239,af055734-aaed-44ad-a2d0-5b9046f29d0d,ERJ-175,Private (Tulip)
 9338a096-ed89-4cc8-8f3b-fab0d75684dd,af055734-aaed-44ad-a2d0-5b9046f29d0d,ERJ-175,Embraer
