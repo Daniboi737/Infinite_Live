@@ -398,11 +398,11 @@ c955ea58-3084-465c-a72e-f8dae47a445b,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing
 eca9dc2f-b1db-4010-8cae-a5b7741c1bd2,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Ethiopian
 f3b11463-634f-43c0-867b-39bc991376c6,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,JetStar
 95e854f5-598e-48a3-a118-2105f76ebc97,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,LOT Polish Airlines
-39295c5c-eb18-4bae-acbc-27f3d708c67e,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Oman Air
+39295c5c-eb18-4bae-acbc-27f3d708c67e,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Oman Air x
 a3e4e9cd-3a91-4558-ad19-91dd5e3f8e79,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Qatar Airways
 7d08852a-46a0-4393-80ab-cdca668e91ac,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Royal Air Maroc
 a352c5e2-e02a-480f-b01b-96f67ea7c261,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Royal Jordanian
-c3f53407-a8c2-4c04-9969-a604dd57e543,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,TUI
+c3f53407-a8c2-4c04-9969-a604dd57e543,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,TUI X
 6b3344a7-15a0-4af7-831e-50ee50fbcb41,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Xiamen Air
 eade910a-5e64-4551-a734-0521e0fc5ed3,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Kenya Airways
 ab1d4246-5e8b-46d4-8911-1ca7e9ac1c33,c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,Infinite Flight - 2016
@@ -418,11 +418,11 @@ f4c8c41b-0e39-4c56-a984-c630f99a2a96,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing
 13230bd7-1f77-4005-a1f2-f0e65e5f7551,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,Japan Airlines
 ca30b4a7-10fc-4a23-a00e-e56862db9975,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,KLM
 82f96a77-e15e-410e-8fa8-7de5c9120abf,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,LATAM
-9f441fd1-471a-4c10-a335-c41de3e4cca0,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,Norwegian Air Shuttle
+9f441fd1-471a-4c10-a335-c41de3e4cca0,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,Norwegian Air Shuttle x
 8887a4aa-4043-4c29-a9a8-2d4269d5daf2,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,Qantas
 dad996b6-3660-484d-934c-a932fc8fcf34,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,Saudia
 9318aaee-cc1d-43c2-9acb-bebb247de74f,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,Scoot
-47707e19-632d-4ff4-be8a-488e60f00012,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,TUI
+47707e19-632d-4ff4-be8a-488e60f00012,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,TUI X
 e4441cbb-58df-4b4b-b9ef-81a2037d657d,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,United Airlines
 18857934-9d28-4479-91b2-6b5befc632a9,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,Vietnam Airlines
 9d4be727-5538-403a-a520-abd4a8cc0cfa,0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,Virgin Atlantic Airways
@@ -732,7 +732,7 @@ f0b6bfd7-aa5e-4e41-a78d-09492ff40e04,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing
 586ff541-fd63-4d98-a89f-4b0cd755fb51,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,LAPA
 ee7f99a8-abda-4231-a6be-9ff769c62099,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,Royal Nepal Airlines
 a1ca5743-5046-4186-bf70-7564961dcf8d,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,EC Air
-672f8652-df76-4f90-afc0-6cc6ad205bac,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,TUI
+672f8652-df76-4f90-afc0-6cc6ad205bac,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,TUI X
 3a5665a6-3b2c-4d8f-917d-9fd9877ceebb,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,Guyana Airways
 820a1d16-2c30-4b4b-bbeb-5fc71a1aed77,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,Air China
 53b62c25-9f69-4f7a-a4f7-df6c8563d67f,ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,United Airlines
